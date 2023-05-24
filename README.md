@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danimog
 - 👀 I’m interested in javascript, vuejs, sql 
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning vuejs and react
 - 📫 How to reach me https://about.me/danielemoggia
 - @ danielemoggia@proton.me
 <!---
